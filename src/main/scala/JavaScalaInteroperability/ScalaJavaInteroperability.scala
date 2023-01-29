@@ -10,10 +10,8 @@ object ScalaJavaInteroperability extends App {
   Data type
    */
   //JAVA: LocalDate localDate = LocalDate.now();
-
   import java.time.LocalDate
-
-  val localDate: LocalDate = LocalDate.now
+   val localDate: LocalDate = LocalDate.now
 
 
 }
