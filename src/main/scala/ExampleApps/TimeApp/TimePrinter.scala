@@ -7,6 +7,4 @@ package ExampleApps.TimeApp
 
 
 
-class TimePrinter(formatter: DateFormatter) {
 
-}
